@@ -19,18 +19,6 @@
 
 ---
 
-## 🌐 Informes Individuales (Detalle Técnico por Nodo)
-
-Para revisar la implementación técnica, comandos de instalación y archivos de configuración de cada servidor, acceda a los siguientes módulos:
-
-* [📑 VM195 - Escudo Perimetral (HAProxy)](VM1-PERIMETRAL.md)
-* [📑 VM197-199 - Aplicación, Orquestación y ProxySQL](VM2-APP-ORQUESTACION.md)
-* [📑 VM198 - Caché y Sesiones (Redis)](VM3-CACHE.md)
-* [📑 VM196-200 - Bóveda de Persistencia y Base de Datos](VM4-PERSISTENCIA.md)
-* [📑 VM201 - Telemetría y Monitoreo](VM5-MONITOREO.md)
-
----
-
 ## 🎯 Objetivos del Proyecto
 
 ### Objetivo General
