@@ -1,4 +1,4 @@
-# 📑 Documentación Técnica: VM198 - Servidor de Caché en Memoria (Redis)
+# 📑 Informe: VM198 - Servidor de Caché en Memoria (Redis)
 
 > **Dirección IP:** `192.168.100.198`
 > **Sistema Operativo:** Ubuntu 24.04 LTS Server
