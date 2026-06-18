@@ -44,7 +44,7 @@
 
 ### 4.1. Diseño Esquemático
 
-> ![Arquitectura de la red](infraestructura(1).png)
+> ![Arquitectura de la red](infraestructura (1).png)
 
 | VM/Host | Rol | IP Física | Red Lógica (VLAN) | SO |
 | :--- | :--- | :--- | :--- | :--- |
